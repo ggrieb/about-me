@@ -8,11 +8,11 @@ This is a day-2 assignment for Code 201 at Code Fellows.  The objective is to ga
 Built With
 VS Code
 
-Authors
+Author
 ggrieb
 
 License
 MIT
 
 Acknowledgements
-Shout out to Instructor Sam Hamm of Code Fellows.
+Shout out to Instructor Sam Hamm of Code Fellows and TA Phil.

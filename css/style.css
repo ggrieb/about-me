@@ -12,6 +12,7 @@ header {
     font-size: 50px;
     color: white;
     background-color: black;
+    padding-bottom: 5px;
 }
 
 h1 {
@@ -20,6 +21,7 @@ h1 {
 
 h3 {
     text-align: center;
+    font-weight: bolder;
 }
 
 aside {
@@ -30,15 +32,24 @@ aside {
     position: fixed;
     color: rgb(255, 255, 255);
     background-color: black;
+    margin-right: 25px;
+    margin-top: 20px;
 }
 
 ul {
     text-align: left;
+    padding-right: 15px;
+    padding-left: 30px;
+}
+
+img {
+    border: 2px solid rgb(0, 4, 255);
 }
 
 article {
     padding-right: 300px;
     color: rgb(0, 0, 0);
+    margin-left: 20px;
 }
 
 footer {
@@ -46,4 +57,5 @@ footer {
     border-radius: 10px;
     color: white;
     background-color: black;
+    padding-left: 10px;
 }
