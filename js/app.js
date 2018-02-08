@@ -97,8 +97,8 @@ while (i < 6) {
     } else {
         alert('Sorry, ' + userName + ', that is not a place that I lived that was not Washington State.  Try again!');
         }
-        i++;
-    }
+    i++;
+}
 
 alert(userName + ', your score on this little game is ' + correctCount + ' out of 7.  Not too shabby.');
 console.log('User total score from game was ' + correctCount + ' out of 7');
