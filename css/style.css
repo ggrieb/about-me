@@ -6,7 +6,7 @@ body {
 header {
     text-align: center;
     font-stretch: ultra-expanded;
-    border: 5px solid rgb(0, 4, 255);
+    border: 5px solid rgb(41, 23, 209);
     border-radius: 10px;
     display: block;
     font-size: 50px;
@@ -27,7 +27,7 @@ h3 {
 aside {
     text-align: center;
     right: 3px;
-    border: 3px solid rgb(0, 4, 255);
+    border: 3px solid rgb(41, 23, 209);
     border-radius: 5px;
     position: fixed;
     color: rgb(255, 255, 255);
@@ -43,17 +43,18 @@ ul {
 }
 
 img {
-    border: 2px solid rgb(0, 4, 255);
+    border: 2px solid rgb(41, 23, 209);
+    margin: 5px;
 }
 
 article {
-    padding-right: 300px;
+    padding-right: 350px;
     color: rgb(0, 0, 0);
     margin-left: 20px;
 }
 
 footer {
-    border: 5px solid rgb(0, 4, 255);
+    border: 5px solid rgb(41, 23, 209);
     border-radius: 10px;
     color: white;
     background-color: black;
