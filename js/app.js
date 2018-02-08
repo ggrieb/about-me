@@ -111,7 +111,7 @@ function question7() {
 		correctCount++;
 		break;
 	} else {
-		alert('Sorry, ' + userName + ', that is not a place that I lived that was not Washington State.  Try again!');
+		alert('Sorry, ' + userName + ', that is not a place that I lived that was not Washington State.');
 		}
 	i++;
   }
