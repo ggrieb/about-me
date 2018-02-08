@@ -10,6 +10,8 @@ Version 1.2 Notes: 2-8-2018 Tone shift to a more presentable 'job-seeker' format
 
 Version 2.0 Notes: Added logic from questions into functions 2/8/2018 Yaspesberro
 
+Version 2.1 Notes: Fixed my spacing issues in my code editor and added an alert that gave all possible answers.  Removed a redundant part of code from q7.
+
 Built With
 VS Code
 

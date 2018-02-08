@@ -1,62 +1,62 @@
 body {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: rgb(255, 255, 255);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: rgb(255, 255, 255);
 }
 
 header {
-    text-align: center;
-    font-stretch: ultra-expanded;
-    border: 5px solid rgb(41, 23, 209);
-    border-radius: 10px;
-    display: block;
-    font-size: 50px;
-    color: white;
-    background-color: black;
-    padding-bottom: 5px;
+  text-align: center;
+  font-stretch: ultra-expanded;
+  border: 5px solid rgb(41, 23, 209);
+  border-radius: 10px;
+  display: block;
+  font-size: 50px;
+  color: white;
+  background-color: black;
+  padding-bottom: 5px;
 }
 
 h1 {
-    font-size: 25px;
+  font-size: 25px;
 }
 
 h3 {
-    text-align: center;
-    font-weight: bolder;
+  text-align: center;
+  font-weight: bolder;
 }
 
 aside {
-    text-align: center;
-    right: 3px;
-    border: 3px solid rgb(41, 23, 209);
-    border-radius: 5px;
-    position: fixed;
-    color: rgb(255, 255, 255);
-    background-color: black;
-    margin-right: 25px;
-    margin-top: 20px;
+  text-align: center;
+  right: 3px;
+  border: 3px solid rgb(41, 23, 209);
+  border-radius: 5px;
+  position: fixed;
+  color: rgb(255, 255, 255);
+  background-color: black;
+  margin-right: 25px;
+  margin-top: 20px;
 }
 
 ul {
-    text-align: left;
-    padding-right: 15px;
-    padding-left: 30px;
+  text-align: left;
+  padding-right: 15px;
+  padding-left: 30px;
 }
 
 img {
-    border: 2px solid rgb(41, 23, 209);
-    margin: 5px;
+  border: 2px solid rgb(41, 23, 209);
+  margin: 5px;
 }
 
 article {
-    padding-right: 350px;
-    color: rgb(0, 0, 0);
-    margin-left: 20px;
+  padding-right: 350px;
+  color: rgb(0, 0, 0);
+  margin-left: 20px;
 }
 
 footer {
-    border: 5px solid rgb(41, 23, 209);
-    border-radius: 10px;
-    color: white;
-    background-color: black;
-    padding-left: 10px;
+  border: 5px solid rgb(41, 23, 209);
+  border-radius: 10px;
+  color: white;
+  background-color: black;
+  padding-left: 10px;
 }
