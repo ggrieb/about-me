@@ -8,6 +8,8 @@ Version 1.1 Notes: Padding and margin adjustments added to multiple CSS fields. 
 
 Version 1.2 Notes: 2-8-2018 Tone shift to a more presentable 'job-seeker' format from more 'interweb-goofy' format.  Including new picture changes and corresponding CSS/html changes.  Efforts to clean up code formatting.  Additional js questions that made use of for loop and while loop, and html lists.
 
+Version 2.0 Notes: Added logic from questions into functions 2/8/2018 Yaspesberro
+
 Built With
 VS Code
 
