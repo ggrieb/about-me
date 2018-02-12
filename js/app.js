@@ -112,7 +112,7 @@ function question7() {
 		break;
 	} else {
 		alert('Sorry, ' + userName + ', that is not a place that I lived that was not Washington State.');
-		}
+	}
 	i++;
   }
   alert('Just an FYI I have lived in Massachussetts, Arizona, Ireland, and the United Kingdom.'); /* All possible answers*/
